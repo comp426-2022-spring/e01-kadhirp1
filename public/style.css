@@ -8,12 +8,17 @@ body {
 }
 
 /* 8. Add style to divs with the "container" class */
- {
+ 
   /* 9. Add 15px padding */
   
   /* 10. Make the background color of the container Carolina Blue using the hex code defined here: https://en.wikipedia.org/wiki/Carolina_blue*/
-
+div.container {
+    background: #4B9CD3;
+    padding: 15px;
 }
+
+
+
 
 input[type=text], input[type=password] {
   width: 100%;
