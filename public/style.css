@@ -40,12 +40,12 @@ h1.register {
   font-weight: bold;
   color: #000080;
   /* 13. Make the text color navy (look up the hex code for navy)
-  
+  */
 }
 
 hr {
   /* 14. Override default hr style with a 30-pixel bottom margin */
-  
+  margin-bottom: 30px;
   /* 15. Add a 2-pixel solid azure border (look up the hex code). */
   
 }
