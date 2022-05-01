@@ -38,6 +38,7 @@ input[type=text]:focus, input[type=password]:focus {
 h1.register {
   /* 12. Make the text BOLD */
   font-weight: bold;
+  color: #000080;
   /* 13. Make the text color navy (look up the hex code for navy)
   
 }
